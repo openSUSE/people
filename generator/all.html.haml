@@ -1,0 +1,36 @@
+!!!
+%head
+  %meta{charset: "utf-8" }
+  %link{href: "https://fonts.googleapis.com/css?family=Open+Sans", rel: "stylesheet", type: "text/css"}
+  %link{rel: :stylesheet, type: "text/css", href: "people.css"}
+%body
+  .header
+    %img{src: "images/opensuse-logo.png"}
+  .content
+    %h1 People of openSUSE
+    %p
+      Interviews with the people who make openSUSE
+
+    .note
+      This site is work in progress. We are going to add all <a
+      href="https://en.opensuse.org/openSUSE:People_of_openSUSE">previous
+      interviews</a> and do new ones as well. If you have questions or would
+      like to get involved get in contact with <a
+      href="mailto:cschum@suse.de">Cornelius Schumacher</a>.
+    %h2 All interviews
+    %ul
+    - all.reverse_each do |person|
+      %li
+        <a href="#{person[:link]}">#{person[:name]}</a>
+        %span{class: "date"}
+          (#{person[:date]})
+    %h2 Doing new interviews
+    %p
+      See the page about
+      %a{href: "howto.html"}
+        how to do interviews with the People of openSUSE
+      for some instructions and guide lines for doing interviews.
+    %p
+      The people we ask are people who are involved in the openSUSE community in
+      some way. We are trying to have a diverse selection of people with
+      different background and doing different type of work.

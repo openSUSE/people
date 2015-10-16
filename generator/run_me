@@ -1,0 +1,88 @@
+#!/usr/bin/ruby
+
+require "haml"
+require "kramdown"
+
+class PersonView
+  attr_accessor :title, :profile, :interview
+end
+
+class AllView
+  attr_accessor :all
+end
+
+base_dir = File.expand_path("../..", __FILE__)
+
+person_template = File.join(base_dir, "generator", "person.html.haml")
+all_template = File.join(base_dir, "generator", "all.html.haml")
+howto_template = File.join(base_dir, "generator", "howto.html.haml")
+
+sources = File.join(base_dir, "sources")
+
+all = []
+
+Dir.glob(File.join(sources, "*.md")).each do |source|
+  id = File.basename(source, ".md")
+  puts "Generating #{id}"
+
+  output_filename = id + ".html"
+  output_file = File.join(base_dir, output_filename)
+
+  view = PersonView.new
+
+  state = nil
+
+  profile = ""
+  interview = ""
+
+  name = ""
+
+  File.read(source).each_line do |line|
+    if line =~ /^# (.*)/
+      name = $1
+      view.title = "People of openSUSE: #{name}"
+    elsif line =~ /^## Profile/
+      state = :scan_profile
+    elsif line =~ /^## Interview/
+      state = :scan_interview
+    elsif line =~ /\#\#/
+      state = :scan_interview
+    else
+      if state == :scan_profile
+        profile += line
+      elsif state == :scan_interview
+        interview += line
+      end
+    end
+  end
+
+  view.profile = Kramdown::Document.new(profile).to_html
+  view.interview = Kramdown::Document.new(interview).to_html
+
+  person_engine = Haml::Engine.new(File.read(person_template))
+
+  content = person_engine.render(view)
+
+  File.open(output_file, "w") do |file|
+    file.puts(content)
+  end
+
+  date = output_filename[/\d\d\d\d-\d\d-\d\d/]
+
+  all.push({name: name, link: output_filename, date: date})
+end
+
+all_engine = Haml::Engine.new(File.read(all_template))
+
+view = AllView.new
+view.all = all
+
+File.open(File.join(base_dir, "all.html"), "w") do |file|
+  file.puts all_engine.render(view)
+end
+
+howto_engine = Haml::Engine.new(File.read(howto_template))
+
+File.open(File.join(base_dir, "howto.html"), "w") do |file|
+  file.puts howto_engine.render(view)
+end

@@ -1,0 +1,62 @@
+body {
+  color: #333;
+  background-color: #eee;
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+}
+
+.header {
+  background-color: #173F4F;
+  color: #35B9AB;
+  padding: 8px;
+}
+
+.header a {
+  color: #35B9AB;
+}
+
+#menu {
+  float: right;
+  margin-top: 12px;
+  margin-right: 12px;
+}
+
+.content {
+  width: 700px;
+  margin: auto;
+}
+
+.profile img {
+  float: right;
+  margin: 8px;
+}
+
+.interview {
+#  clear: right;
+}
+
+.footer {
+  background-color: #173F4F;
+  color: #35B9AB;
+  padding: 8px;
+  text-align: center;
+}
+
+.date {
+  font-size: 80%;
+  font-style: italic;
+  margin-left: 6px;
+}
+
+.note {
+  font-style: italic;
+}
+
+.template {
+  background-color: white;
+  padding: 8px;
+}
+
+.template pre {
+  white-space: pre-wrap;
+}
