@@ -14,7 +14,7 @@ end
 base_dir = File.expand_path("../..", __FILE__)
 
 person_template = File.join(base_dir, "generator", "person.html.haml")
-all_template = File.join(base_dir, "generator", "all.html.haml")
+all_template = File.join(base_dir, "generator", "index.html.haml")
 howto_template = File.join(base_dir, "generator", "howto.html.haml")
 
 sources = File.join(base_dir, "sources")
@@ -77,7 +77,7 @@ all_engine = Haml::Engine.new(File.read(all_template))
 view = AllView.new
 view.all = all
 
-File.open(File.join(base_dir, "all.html"), "w") do |file|
+File.open(File.join(base_dir, "index.html"), "w") do |file|
   file.puts all_engine.render(view)
 end
 
