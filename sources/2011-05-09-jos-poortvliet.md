@@ -45,7 +45,7 @@ At the same time we don’t get the word out on really valuable technology like 
 Well, if we get our communication in order, a bright future it will be. We have brilliant people, brilliant technology and strong backing from a company which is determined and pushing forward. And, in my opinion, involved in openSUSE just the way they should be. Not telling people what to do but just contributing and working with people. That’s something we have which other distributions lack!
 
 
-**Someone gives you $1.000.000 â€” what would you do with the money?**
+**Someone gives you $1.000.000, what would you do with the money?**
 
 Quit my job so I wouldn’t have to do the administrative part of it and keep doing what I do. Or maybe even better – don’t tell anyone but secretly hire someone to do the paperwork for me and keep the job
 
