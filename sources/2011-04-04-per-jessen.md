@@ -67,7 +67,7 @@ No idea.
 
 **A person ask you why he/she should choose openSUSE instead of other distribution/OS. What would be your arguments to convince him/her to pick up openSUSE?**
 
-If someone asks me, it’s because they value my advice â€“ I hope that is enough to convince him or her.
+If someone asks me, it’s because they value my advice. I hope that is enough to convince him or her.
 
 
 **Which members of the openSUSE community have you met in person?**
@@ -112,7 +112,7 @@ Relax.
 
 **Which is your favorite movie scene?**
 
-From the Australian movie â€žThe Dishâ€œ when the local band plays the title-music from â€žHawaii Five-Oâ€œ thinking it is the American national anthem. 
+From the Australian movie "The Dish" when the local band plays the title-music from "Hawaii Five-O" thinking it is the American national anthem. 
 
 
 **Star Trek or Star Wars?**
@@ -122,7 +122,7 @@ I like both actually.
 
 **What is your favorite food and drink?**
 
-KÃ¤sespÃ¤tzle mit RÃ¶stzwiebel. Ittinger KlosterbrÃ¤u. Erdinger Dunkelweiss.
+Käsepätzle mit Röstzwiebel. Ittinger Klosterbräu. Erdinger Dunkelweiss
 
 
 **Favorite game or console (in your childhood and nowadays)?**
@@ -147,7 +147,7 @@ Buy a Ferrari.
 
 **If traveling through time was possible. When would we be most likely to meet you?**
 
-I’d like to jump to somewhere 50-100 years from now â€“ I’d like to see what the historians of the (near) future think of our world and our actions today.
+I’d like to jump to somewhere 50-100 years from now. I’d like to see what the historians of the (near) future think of our world and our actions today.
 
 
 **There’s a thunderstorm outside. Do you turn off your computer?**
@@ -162,7 +162,7 @@ Yes.
 
 **Show us a picture of something, you have always wanted to share!**
 
-This is â€žTigerâ€œ, our wild cat taking a nap amongst the raspberries in the very early spring sun.
+This is "Tiger", our wild cat taking a nap amongst the raspberries in the very early spring sun.
 
 
 **You couldn’t live without…**

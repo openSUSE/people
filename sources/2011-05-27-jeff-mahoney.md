@@ -76,7 +76,7 @@ Most of the ones who work SUSE as their day jobs. I haven’t had many opportuni
 
 **How many icons are currently on your desktop?**
 
-2. The default ones, trash and homedir. I like a tidy desktop and use the command line most of the time.
+2, The default ones, trash and homedir. I like a tidy desktop and use the command line most of the time.
 
 
 **What is the application you can’t live without? And why?**
