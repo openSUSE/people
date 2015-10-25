@@ -60,11 +60,12 @@ Have a lot of fun :)
 We need a tighter integration with media codecs. Rest all works like a charm.
 
 
-**What do you think the future holds for the openSUSE project?**
+**What do you think the future holds for the openSUSE project? And your future at the project?**
 
-openSUSE has got a wonderful future. I don't know about my future at the project but definitely like to keep it the way as it is now.
+openSUSE has got a wonderful future. I donâ€™t know about my future at the project but definitely like to keep it the way as it is now.
 
-**A person ask you why he/she should choose openSUSE instead of other distribution/OS. What would be your arguments to convince him/her to pick up openSUSE?**
+
+**A person asks you why he/she should choose openSUSE instead of other distribution/OS. What would be your arguments to convince him/her to pick up openSUSE?**
 
 I will ask them to use it for at least 2 months and explore it and then decide. People want instant results and that is not achievable.
 
@@ -79,7 +80,7 @@ Sankar P, Vincent Untz, Bharath Acaharya, Akhil Ladha and a lot of the people fr
 Well none, because of GNOME 3, otherwise there would have been plenty
 
 
-**What is the application you can’t live without? And why?**
+**What is the application you can't live without? And why?**
 
 Firefox, I spend a lot of time over the net
 
@@ -88,19 +89,10 @@ Firefox, I spend a lot of time over the net
 
 A git like filesystem maybe
 
+
 **Which is your preferred text editor? And why?**
 
 Vim.. as gets the job done
-
-
-**Which computer related skills would you like to have?**
-
-I wish I had a better knack for user interface design.
-
-
-**The Internet crashes for a whole week. How would you feel, what would you do?**
-
-I’d go backpacking since there’s no way I’m getting any work done that week. :)
 
 
 **Which famous person would you want to join the openSUSE community?**
@@ -113,7 +105,7 @@ Linus
 Packaging
 
 
-**The Internet crashes for a whole week, how would you feel? What would you do?**
+**The Internet crashes for a whole week, how would you feel, what would you do?**
 
 I will move out, and read some books, hang out with friends.
 
@@ -158,7 +150,7 @@ I don't know what I am going to with that amount of money not decided yet. Yes I
 I do not prefer time travel :) but maybe this openSUSE Conference if I get to it.
 
 
-**There’s a thunderstorm outside. Do you turn off your computer?**
+**There's a thunderstorm outside, do you turn off your computer?**
 
 Naa. Why would I do that?
 
@@ -173,7 +165,7 @@ My friends always call me up :)
 I don't have one such photo yet
 
 
-**You couldn't live without?**
+**You couldn't live without...**
 
 My family, friends, a computer and a lot of other things
 
