@@ -72,6 +72,8 @@ Dir.glob(File.join(sources, "*.md")).each do |source|
   all.push({name: name, link: output_filename, date: date})
 end
 
+all.sort! { |a,b| b[:date] <=> a[:date] }
+
 all_engine = Haml::Engine.new(File.read(all_template))
 
 view = AllView.new

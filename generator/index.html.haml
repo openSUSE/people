@@ -19,7 +19,7 @@
       href="mailto:cschum@suse.de">Cornelius Schumacher</a>.
     %h2 All interviews
     %ul
-    - all.reverse_each do |person|
+    - all.each do |person|
       %li
         <a href="#{person[:link]}">#{person[:name]}</a>
         %span{class: "date"}
