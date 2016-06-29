@@ -4,11 +4,10 @@
 
 ![Stephan](images/stephan_kulow.jpg)
 
-* Nickname:	Coolo
+* Nickname: Coolo
 * [Blog](http://www.kdedevelopers.org/blog/124)
-
-* Favorite season:	Definitely spring. Sunny, but not too warm.
-* Motto:	Keep cool.
+* Favorite season: Definitely spring. Sunny, but not too warm.
+* Motto: Keep cool.
 
 ## Interview
 
