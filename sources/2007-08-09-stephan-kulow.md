@@ -2,7 +2,7 @@
 
 ## Profile
 
-![Stephan](images/stephan_kulow.jpg)
+![Stephan Kulow](images/stephan_kulow.jpg)
 
 * Nickname: Coolo
 * [Blog](http://www.kdedevelopers.org/blog/124)
