@@ -74,7 +74,7 @@ That very much depends on the person asking. For most people I know it’s enoug
 
 **Which members of the openSUSE community have you met in person?**
 
-Beside Benjamin and Francis being in NÃ¼rnberg I don’t think I have met community members not working at Novell.
+Beside Benjamin and Francis being in Nürnberg I don’t think I have met community members not working at Novell.
 
 
 **How many icons are currently on your desktop?**
