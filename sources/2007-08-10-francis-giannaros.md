@@ -2,15 +2,14 @@
 
 ## Profile
 
-![Francis](images/francis_giannaros.jpg)
+![Francis Giannaros](images/francis_giannaros.jpg)
 
-* Nickname:	apokryphos
-* [Homepage](http://francis.giannaros.org), [Blog](http://francis.giannaros.org/blog)
-
-* Favorite season:	Summer! Nothing quite like the sun.
-* Motto:	Archimedes’ quotation on levers (though of course having a wider meaning as well) has always been a favourite:
+* Nickname: apokryphos
+* [Homepage](http://francis.giannaros.org)
+* [Blog](http://francis.giannaros.org/blog)
+* Favorite season: Summer! Nothing quite like the sun.
+* Motto: Archimedes’ quotation on levers (though of course having a wider meaning as well) has always been a favourite:
 Dos moi pou sto kai gen kineso (Give me where to stand, and I will move the earth)
-
 
 ## Interview
 
@@ -97,7 +96,7 @@ I’m mainly only really concerned about getting Windows/Mac users over to Linux
 
 **Which members of the openSUSE community have you met in person?**
 
-Quite a few since I originally met all the guys doing talks at FOSDEM 2007, though Pascal Bleser and Benjamin Weber were also there which was great, and I later attended SUSE Hack Week in NÃ¼rnberg where there were hundreds of SUSE developers around.
+Quite a few since I originally met all the guys doing talks at FOSDEM 2007, though Pascal Bleser and Benjamin Weber were also there which was great, and I later attended SUSE Hack Week in Nürnberg where there were hundreds of SUSE developers around.
 
 
 **How many icons are currently on your desktop?**
@@ -147,7 +146,7 @@ Star Wars for sure, though I’m more of a Lord of the Rings guy.
 
 **What is your favorite food and drink?**
 
-I’m a big fan of Thai food.
+I’m a big fan of Thai food. 
 
 
 **Favorite game or console (in your childhood and nowadays)?**
@@ -172,7 +171,7 @@ Spend it before the dollar becomes even weaker ;-) . Probably travel around the 
 
 **If traveling through time was possible. When would we be most likely to meet you?**
 
-Some time from the Renaissance up to the Seventeenth century. The changes in man’s consciousness in the scientific revolution and just after seem to be really bizarre, particularly in Mathematics and Philosophy. I wrote an essay on something similar to this once: francis.giannaros.org/files/historyofmathsphil.odt
+Some time from the Renaissance up to the Seventeenth century. The changes in man’s consciousness in the scientific revolution and just after seem to be really bizarre, particularly in Mathematics and Philosophy. I wrote an essay on something similar to this once: [francis.giannaros.org/files/historyofmathsphil.odt](http://francis.giannaros.org/files/historyofmathsphil.odt)
 
 
 **There’s a thunderstorm outside. Do you turn off your computer?**
