@@ -62,7 +62,7 @@ We need a tighter integration with media codecs. Rest all works like a charm.
 
 **What do you think the future holds for the openSUSE project? And your future at the project?**
 
-openSUSE has got a wonderful future. I donâ€™t know about my future at the project but definitely like to keep it the way as it is now.
+openSUSE has got a wonderful future. I don't know about my future at the project but definitely like to keep it the way as it is now.
 
 
 **A person asks you why he/she should choose openSUSE instead of other distribution/OS. What would be your arguments to convince him/her to pick up openSUSE?**

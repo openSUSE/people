@@ -2,11 +2,12 @@
 
 ## Profile
 
-* Nickname:	 I don’t use one
-* [Homepage](http://www.jessen.ch/)
 
-* Favorite season:	All/none of them, but I don’t like rain very much.
-* Motto:	None.
+* **Nickname:** I don’t use one
+* **Homepage:** [http://www.jessen.ch/](http://www.jessen.ch/)
+* **Blog:** I don’t use one.
+* **Favorite season:** All/none of them, but I don’t like rain very much.
+* **Motto:** None.
 
 ## Interview
 
@@ -40,7 +41,7 @@ I report bugs, I test the alphas and betas, occasionally I submit patches, I par
 Nothing in particular. I’m just being loyal to my favourite distro.
 
 
-**What do you think was your most important contribution to the openSUSE project/community or what is the contribution that you’re most proud of?**
+**What do you think was your most important contribution to the openSUSE project/community or what is the contribution that you're most proud of?**
 
 I was quite pleased with myself when I succeeded in upgrading nasm (mostly to incorporate a patch I had submitted to the nasm-project a year ago), but it’s hardly an important contribution.
 
@@ -52,7 +53,7 @@ It varies, mostly during the week.
 
 **Three words to describe openSUSE? Or make up a proper slogan!**
 
-The green stuff!
+"The green stuff!"
 
 
 **What do you think is missing or underrated in the distribution or the project?**
@@ -65,7 +66,7 @@ I think we need more leadership and better quality control. We have too many cha
 No idea.
 
 
-**A person ask you why he/she should choose openSUSE instead of other distribution/OS. What would be your arguments to convince him/her to pick up openSUSE?**
+**A person asks you why he/she should choose openSUSE instead of other distribution/OS. What would be your arguments to convince him/her to pick up openSUSE?**
 
 If someone asks me, it’s because they value my advice. I hope that is enough to convince him or her.
 
@@ -80,7 +81,7 @@ None (as far as I know).
 I don’t know, I don’t really use my desktop much. I have about 35-36 open windows.
 
 
-**What is the application you can’t live without? And why?**
+**What is the application you can't live without? And why?**
 
 Openoffice â€“ because I do everything in openoffice. Asterisk – because it runs my office and home telephone system.
 
@@ -112,7 +113,7 @@ Relax.
 
 **Which is your favorite movie scene?**
 
-From the Australian movie "The Dish" when the local band plays the title-music from "Hawaii Five-O" thinking it is the American national anthem. 
+From the Australian movie "The Dish" when the local band plays the title-music from "Hawaii Five-O" thinking it is the American national anthem.
 
 
 **Star Trek or Star Wars?**
@@ -122,7 +123,7 @@ I like both actually.
 
 **What is your favorite food and drink?**
 
-Käsepätzle mit Röstzwiebel. Ittinger Klosterbräu. Erdinger Dunkelweiss
+Käsespätzle mit Röstzwiebel. Ittinger Klosterbräu. Erdinger Dunkelweiss.
 
 
 **Favorite game or console (in your childhood and nowadays)?**
@@ -145,12 +146,12 @@ On the beach, in Greece or in Denmark.
 Buy a Ferrari.
 
 
-**If traveling through time was possible. When would we be most likely to meet you?**
+**If traveling through time was possible, when would we be most likely to meet you?**
 
 I’d like to jump to somewhere 50-100 years from now. I’d like to see what the historians of the (near) future think of our world and our actions today.
 
 
-**There’s a thunderstorm outside. Do you turn off your computer?**
+**There's a thunderstorm outside. Do you turn off your computer?**
 
 No.
 
@@ -160,12 +161,7 @@ No.
 Yes.
 
 
-**Show us a picture of something, you have always wanted to share!**
-
-This is "Tiger", our wild cat taking a nap amongst the raspberries in the very early spring sun.
-
-
-**You couldn’t live without…**
+**You couldn't live without...**
 
 My family.
 

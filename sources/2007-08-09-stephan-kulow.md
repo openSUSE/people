@@ -4,10 +4,14 @@
 
 ![Stephan Kulow](images/stephan_kulow.jpg)
 
-* Nickname: Coolo
-* [Blog](http://www.kdedevelopers.org/blog/124)
-* Favorite season: Definitely spring. Sunny, but not too warm.
-* Motto: Keep cool.
+Today you can also read the ‘People of openSUSE’ interview with Stephan Kulow, the release manager of the openSUSE distribution.
+
+Read on to see which answers he provides.
+
+* **Nickname:** Coolo
+* **Blog:** [http://www.kdedevelopers.org/blog/124](http://www.kdedevelopers.org/blog/124)
+* **Favorite season:** Definitely spring. Sunny, but not too warm.
+* **Motto:** Keep cool.
 
 ## Interview
 
@@ -147,7 +151,7 @@ My preferred way is 100% family. One week with my niece refresh me better than 2
 You don’t want my investment ideas. But a nice house for me and my family would be the first on my list with free monday.
 
 
-**If traveling through time was possible. When would we be most likely to meet you?**
+**If traveling through time was possible, when would we be most likely to meet you?**
 
 Not too far away. I want to see the Zwinger of Dresden in its full beauty before the industry fog made it all black. If you’ve seen the Dresden Frauenkirche you know what beauty I’m talking about. I would target a nice september night in 1900.
 

@@ -143,7 +143,7 @@ Depends on the time of the year that vacations take place.
 Well I am about to continue my studies towards obtaining a master degree in Artificial Intelligence, so if i would win i would use the money for my expenses. I will stay in openSUSE anyway, my stickers with gecko in all my computers can guarantee it.
 
 
-**If traveling through time was possible â€” when would we be most likely to meet you?**
+**If traveling through time was possible. When would we be most likely to meet you?**
 
 In 60s-70s-80s best music ever!
 

@@ -2,15 +2,14 @@
 
 ## Profile
 
-![anaumov](images/alexander_naumov.jpg)
+![Alexander Naumov](images/Alex_SLE.jpg)
 
-* Nickname:	  	anaumov (as nickname on IRC), Ute11ok
-* [Homepage](https://en.opensuse.org/User:Alexander_Naumov)
-* [Blog](https://thefreecountry.wordpress.com/)
-* [Blog](https://lizards.opensuse.org/author/alexander_naumov/)
 
-* Favorite season:	Autumn.
-* Motto:	“be free like… freedom”
+* **Nickname:** anaumov (as nickname on IRC), Ute11ok
+* **Homepage:**  [http://en.opensuse.org/User:Alexander_Naumov](http://http://en.opensuse.org/User:Alexander_Naumov)
+* **Blog:**  [http://thefreecountry.wordpress.com/](http://http://thefreecountry.wordpress.com/)
+* **Favorite season:** Autumn.
+* **Motto:** “be free like… freedom”
 
 ## Interview
 
@@ -78,15 +77,15 @@ I just love it :)
 It’s great to be part of openSUSE community and I’m proud that I work for SUSE Linux.
 
 
-**What do you think was your most important contribution to the openSUSE project/community or what is the contribution that you are most proud of?**
+**What do you think was your most important contribution to the openSUSE project/community or what is the contribution that you're most proud of?**
 
 Hm.. good question.
 
 I was initiator the creation of:
 
-* Russian openSUSE planet: http://planet.opensuse.org/ru
+* Russian openSUSE planet: [http://planet.opensuse.org/ru](http://http://planet.opensuse.org/ru)
 
-* Russian openSUSE forum: http://forums.opensuse.org/p-russian/
+* Russian openSUSE forum: [http://forums.opensuse.org/p-russian/](http://http://forums.opensuse.org/p-russian/)
 
 * Russian Linux kernel portal: http://ru.kernelnewbies.org
 
@@ -107,7 +106,9 @@ Open, Community, Fun
 
 **What do you think is missing or underrated in the distribution or the project?**
 
-1. Documentation. I miss developers documentation. Many projects do not have this, and you should ask every time maintainers/developers or read the code yourself. It’s not a big problem, but with good documentation will be easier to start to hack and oS project will get more from the community back, I guess.
+1. Documentation. I miss developers documentation. Many projects do not have this, and you should ask every time maintainers/developers or read the code yourself.
+
+It’s not a big problem, but with good documentation will be easier to start to hack and oS project will get more from the community back, I guess.
 
 2. Multimedia support.
 
@@ -117,7 +118,7 @@ Open, Community, Fun
 If activity of contributers will stay like today, then… world domination :)
 
 
-**A person ask you why he/she should choose openSUSE instead of other distribution/OS. What would be your arguments to convince him/her to pick up openSUSE?**
+**A person asks you why he/she should choose openSUSE instead of other distribution/OS. What would be your arguments to convince him/her to pick up openSUSE?**
 
 Hm, actually it’s depend on situation. There are different arguments for developers and users.
 
@@ -146,7 +147,7 @@ For non openSUSE, but GNU/Linux users:
 
 **Which members of the openSUSE community have you met in person?**
 
-Most of the SUSE/Novell employees and various community members during FOSDEM2010, Tokamak4, every openSUSE release pary (in NÃ¼renberg) and of course openSUSE Conference 2009/2010.
+Most of the SUSE/Novell employees and various community members during FOSDEM2010, Tokamak4, every openSUSE release pary (in Nürnberg) and of course openSUSE Conference 2009/2010.
 
 
 **How many icons are currently on your desktop?**
@@ -156,7 +157,7 @@ In KDE: 5 (include Kickoff) + 7 system tray icons.
 In Fluxbox: zero
 
 
-**What is the application you can’t live without? And why?**
+**What is the application you can't live without? And why?**
 
 Bash? :)
 
@@ -260,7 +261,7 @@ Saint Petersburg, Russia
 With my family visit friends in other cities/countries.
 
 
-**Someone gives you $1.000.000, what would you do with the money?**
+**Someone gives you $1.000.000. What would you do with the money?**
 
 Buy a house
 
@@ -270,7 +271,7 @@ Buy a house
 60s-70s, USA
 
 
-**There’s a thunderstorm outside. Do you turn off your computer?**
+**There's a thunderstorm outside. Do you turn off your computer?**
 
 Nah. It’s more interesting to wait and see what will happen :)
 
@@ -282,10 +283,10 @@ Ou yeah :)
 
 **Show us a picture of something, you have always wanted to share!**
 
-See my blog or picasaweb gallary: https://picasaweb.google.com/posix.ru/
+See my blog or picasaweb gallery: [http://picasaweb.google.com/posix.ru/](http://http://picasaweb.google.com/posix.ru/)
 
 
-**You couldn't live without?**
+**You couldn't live without...**
 
 Faith in God and love of my family
 

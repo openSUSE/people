@@ -3,6 +3,7 @@
 ## Profile
 
 ![Mihnea](images/mihnea_dobrescu_balaur.jpg)
+
 * Nickname:	 mihneadb / used to be CrAzzY_ in online games
 
 * Favorite season:	Winter
@@ -48,20 +49,18 @@ My project consists of making a bug reporting tool that can help users submit re
 
 Its main functionalities are splitted in four categories at the moment:
 
-    aid – helps the user to determine which is the 'suspected' package that causes a problem
-    gather – scans the system for relevant data to provide in a bug
-    report or to someone that helps, via IRC let's say
-    query – search the Bugzilla instance for bug reports that fit given
-    keywords and sorts them by relevance
-    submit – gets input from the user and submits the bug report to Bugzilla
+* aid – helps the user to determine which is the 'suspected' package that causes a problem
+* gather – scans the system for relevant data to provide in a bug report or to someone that helps, via IRC let's say
+* query – search the Bugzilla instance for bug reports that fit given keywords and sorts them by relevance
+* submit – gets input from the user and submits the bug report to Bugzilla
 
 Underlying nice stuff:
 
-    duplicate search – this feature was very wanted from what I could tell. I managed to implement it using a sorting by relevance of bug reports. From what I could see in the tests I've done, it works great. Also, it supports “excluded words” functionality.
-    get assignee + maintainers – I use data from the rpm and then get the relevant information via OBS, using it's python bindings, not the shell tool
-    check account – verifies that the user has a valid account and if so, it stores the user's credentials in a hidden file, base64 encrypted and pickled to make them not human readable; if the data is stored, the user isn't prompted again for username & password when interacting with bugzilla
-    globbing : when searching for a package, you can also do something like search for ' kde* ' and it will show you what packages match
-    searching local rpm database: it also looks in 'provides', not only in 'name'
+* duplicate search – this feature was very wanted from what I could tell. I managed to implement it using a sorting by relevance of bug reports. From what I could see in the tests I've done, it works great. Also, it supports “excluded words” functionality.
+* get assignee + maintainers – I use data from the rpm and then get the relevant information via OBS, using it's python bindings, not the shell tool
+* check account – verifies that the user has a valid account and if so, it stores the user's credentials in a hidden file, base64 encrypted and pickled to make them not human readable; if the data is stored, the user isn't prompted again for username & password when interacting with bugzilla
+* globbing : when searching for a package, you can also do something like search for ' kde* ' and it will show you what packages match
+* searching local rpm database: it also looks in 'provides', not only in 'name'
 
 I've also implemented some other nice stuff but I don't want to bore the audience. You can find everything in the repo here: https://github.com/mihneadb/suse_bug_reporter
 

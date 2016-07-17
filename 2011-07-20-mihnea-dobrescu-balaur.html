@@ -19,10 +19,12 @@
     </h1>
     <div class='profile'>
       
-      <p><img src="images/mihnea_dobrescu_balaur.jpg" alt="Mihnea" />
-      * Nickname:	 mihneadb / used to be CrAzzY_ in online games</p>
+      <p><img src="images/mihnea_dobrescu_balaur.jpg" alt="Mihnea" /></p>
       
       <ul>
+        <li>
+          <p>Nickname:	 mihneadb / used to be CrAzzY_ in online games</p>
+        </li>
         <li>Favorite season:	Winter</li>
         <li>Motto:	Not sure if it’s my motto, but: “You must be the change you want to see in the world.” It’s Gandhi’s.</li>
       </ul>
@@ -61,22 +63,22 @@
       
       <p>Its main functionalities are splitted in four categories at the moment:</p>
       
-      <pre><code>aid – helps the user to determine which is the 'suspected' package that causes a problem
-      gather – scans the system for relevant data to provide in a bug
-      report or to someone that helps, via IRC let's say
-      query – search the Bugzilla instance for bug reports that fit given
-      keywords and sorts them by relevance
-      submit – gets input from the user and submits the bug report to Bugzilla
-      </code></pre>
+      <ul>
+        <li>aid – helps the user to determine which is the ‘suspected’ package that causes a problem</li>
+        <li>gather – scans the system for relevant data to provide in a bug report or to someone that helps, via IRC let’s say</li>
+        <li>query – search the Bugzilla instance for bug reports that fit given keywords and sorts them by relevance</li>
+        <li>submit – gets input from the user and submits the bug report to Bugzilla</li>
+      </ul>
       
       <p>Underlying nice stuff:</p>
       
-      <pre><code>duplicate search – this feature was very wanted from what I could tell. I managed to implement it using a sorting by relevance of bug reports. From what I could see in the tests I've done, it works great. Also, it supports “excluded words” functionality.
-      get assignee + maintainers – I use data from the rpm and then get the relevant information via OBS, using it's python bindings, not the shell tool
-      check account – verifies that the user has a valid account and if so, it stores the user's credentials in a hidden file, base64 encrypted and pickled to make them not human readable; if the data is stored, the user isn't prompted again for username &amp; password when interacting with bugzilla
-      globbing : when searching for a package, you can also do something like search for ' kde* ' and it will show you what packages match
-      searching local rpm database: it also looks in 'provides', not only in 'name'
-      </code></pre>
+      <ul>
+        <li>duplicate search – this feature was very wanted from what I could tell. I managed to implement it using a sorting by relevance of bug reports. From what I could see in the tests I’ve done, it works great. Also, it supports “excluded words” functionality.</li>
+        <li>get assignee + maintainers – I use data from the rpm and then get the relevant information via OBS, using it’s python bindings, not the shell tool</li>
+        <li>check account – verifies that the user has a valid account and if so, it stores the user’s credentials in a hidden file, base64 encrypted and pickled to make them not human readable; if the data is stored, the user isn’t prompted again for username &amp; password when interacting with bugzilla</li>
+        <li>globbing : when searching for a package, you can also do something like search for ‘ kde* ‘ and it will show you what packages match</li>
+        <li>searching local rpm database: it also looks in ‘provides’, not only in ‘name’</li>
+      </ul>
       
       <p>I’ve also implemented some other nice stuff but I don’t want to bore the audience. You can find everything in the repo here: https://github.com/mihneadb/suse_bug_reporter</p>
       

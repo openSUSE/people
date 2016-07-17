@@ -2,27 +2,28 @@
 
 ## Profile
 
-* Nicknames:	guru and yaloki
-* [Website](http://linux01.gwdg.de/~pbleser/), [Blog](http://dev-loki.blogspot.com/)
+![Pascal Bleser](images/pascal_bleser2.jpg)
 
-* Favorite season:	Spring. But mostly because I like springframework.org ;)
-* Motto:	“have fun”
 
-![Pascal](images/pascal_bleser2.jpg)
+* **Nicknames:** guru and yaloki
+* **Website:** [http://linux01.gwdg.de/~pbleser/](http://linux01.gwdg.de/~pbleser/)
+* **Blog:** [http://dev-loki.blogspot.com/](http://dev-loki.blogspot.com/)
+* **Favorite season:** Spring. But mostly because I like [springframework.org](http://www.springframework.org/) ;)
+* **Motto:** “have fun”
 
 ## Interview
 
 **Please introduce yourself!**
 
 My name is Pascal Bleser, I’m 32 years old and live in Belgium.
-I’m living there with my girlfriend Ingrid and my little 2 year old daughter Gaelle.
+I’m living there with my girlfriend Ingrid and my little 2 year old daughter Gælle.
 We currently don’t have pets, but I’m sure we’ll get a cat again soon.
 
 My native languages are French and German, my English is quite fluent and I also babble a few words of Dutch.
 
 I’m working as a software architect at Atos Worldline in Germany, where I’m part of a team of highly skilled software engineers, building top notch enterprise platforms around Java and JEE that are used in many mission critical applications (banking, telecom, …).
 
-During my free time, I’m also part of the core organization team for one of the biggest and most appreciated open source and free software events in Europe: FOSDEM.
+During my free time, I’m also part of the core organization team for one of the biggest and most appreciated open source and free software events in Europe: [FOSDEM](http://fosdem.org).
 
 
 **Tell us about the background to your computer use.**
@@ -44,14 +45,14 @@ And, well, the next logical step was to start sharing those packages on the Inte
 
 **In what way do you participate in the openSUSE project?**
 
-As explained above, it’s quite a while I’m packaging RPMs for SUSE, and I suppose pretty much everyone knows my “guru” repository. It’s the 2nd largest package repository in the openSUSE community, after Packman. Note that I have lots of contact with the Packman team and that I should be merging with them some day, eventually. I use their Subversion infrastructure to commit packaging sources and developed most of their new website.
-I’m also listed as one of the most prolific packagers on PBone — the only individuals who score higher are fellow Belgians whom I know personally (Dries Verachtert and Dag Wieers).
+As explained above, it’s quite a while I’m packaging RPMs for SUSE, and I suppose pretty much everyone knows my [“guru” repository](http://opensuse-community.org/Guru). It’s the 2nd largest package repository in the openSUSE community, after [Packman](http://opensuse-community.org/Packman). Note that I have lots of contact with the Packman team and that I should be merging with them some day, eventually. I use their [Subversion infrastructure](http://cia.vc/stats/project/PackMan) to commit packaging sources and developed most of their new [website](http://packman.links2linux.org/).
+I’m also listed as one of the most prolific packagers on [PBone](http://rpm.pbone.net/index.php3/stat/15/sort/1) — the only individuals who score higher are fellow Belgians whom I know personally (Dries Verachtert and Dag Wieers).
 
-Apart from that, I’m trying to contribute to discussions in and around the community on several openSUSE mailing-lists and spend most evenings helping and as an op on the #suse IRC channel as well as #opensuse-de, #opensuse-fr, and a few other opensuse channels over there.
+Apart from that, I’m trying to contribute to discussions in and around the community on several openSUSE mailing-lists and spend most evenings helping and as an op on the [#suse IRC channel](irc://irc.freenode.net/#suse) as well as #opensuse-de, #opensuse-fr, and a few other opensuse channels over there.
 
-I spend my remaining spare time working on the openSUSE Software Portal project that is still in its infancy but hopefully will be the Ã¼ber-killer web site for openSUSE users some day ;)
+I spend my remaining spare time working on the [openSUSE Software Portal project](http://en.opensuse.org/Software_Portal) that is still in its infancy but hopefully will be the über-killer web site for openSUSE users some day ;)
 
-I also hacked a small but nice little tool called “webpin” that acts as a command-line frontend to Benjamin Weber‘s excellent openSUSE Package Search service.
+I also hacked a small but nice little tool called [“webpin”](http://dev-loki.blogspot.com/search/label/webpin) that acts as a command-line frontend to [Benjamin Weber](http://blogs.warwick.ac.uk/bweber/)‘s excellent openSUSE [Package Search service](http://benjiweber.co.uk:8080/webpin/).
 
 And, well, other bits and pieces here and there.
 
@@ -62,7 +63,7 @@ Mainly two things:
 1) the technical aspects/challenges; also, being an IT professional, trying out new and different things (RPM packaging, for example, is quite different from what I do at work)
 2) while this may sound pathetic to some… I’m a strong believer in the opensource and free software movements: it’s really one of the very few things remaining in our sick world where people contribute their time, money and energy without getting much back. So, yeah, I also do it for the love of it and the people to whom my work may prove useful in a way or another ;)
 
-Now, why specifically openSUSE… Well, I’m also involved in other opensource activities, such as organizing FOSDEM, contributing to Hudson, etc… but it’s a long time I’m using (open)SUSE Linux and it’s the Linux community where I’m at home.
+Now, why specifically openSUSE… Well, I’m also involved in other opensource activities, such as organizing [FOSDEM](http://fosdem.org/), contributing to [Hudson](https://hudson.dev.java.net/), etc… but it’s a long time I’m using (open)SUSE Linux and it’s the Linux community where I’m at home.
 It just sort of happened ;)
 
 
@@ -111,9 +112,9 @@ Personally, I’m not hostile towards other Linux distributions (with the except
 
 **Which members of the openSUSE community have you met in person?**
 
-Several people working on openSUSE in NÃ¼rnberg (Markus Rueckert, Henne Vogelsang, Stephan Binner, Adrian Schroeter, Duncan Mac-Vicar, Andreas Jaeger, Marcus Meissner, Martin Lasarsch, Michael Loeffler, mmj, just to name a few, but there were lots more ;) ).
+Several people working on openSUSE in Nürnberg (Markus Rueckert, Henne Vogelsang, Stephan Binner, Adrian Schroeter, Duncan Mac-Vicar, Andreas Jaeger, Marcus Meissner, Martin Lasarsch, Michael Loeffler, mmj, just to name a few, but there were lots more ;) ).
 
-I only met very few non-Novell openSUSE community members, namely Benjamin “benJIman” Weber, Francis “apokryphos” Giannaros, as well as Detlef Reichelt, Quentin Dennis, Herbert “herby” Graeber (all three are part of the Packman team), and Marc Schiffbauer. Marc prefers Debian but he provides the infrastructure for Packman, which is a very valuable contribution to our community ;)
+I only met very few non-Novell openSUSE community members, namely [Benjamin “benJIman” Weber](http://blogs.warwick.ac.uk/bweber/), [Francis “apokryphos” Giannaros](http://francis.giannaros.org/blog/), as well as Detlef Reichelt, Quentin Dennis, Herbert “herby” Graeber (all three are part of the Packman team), and Marc Schiffbauer. Marc prefers Debian but he provides the infrastructure for Packman, which is a very valuable contribution to our community ;)
 
 
 **How many icons are currently on your desktop?**
@@ -214,14 +215,14 @@ No, I use kalarmd ;)
 
 **Show us a picture of something, you have always wanted to share!**
 
-![Gaelle](images/gaelle.jpg)
+![gaelle.jpg](images/gaelle.jpg)
 
 Isn’t my daughter lovely ? ;)
 
 
 **You couldn’t live without…**
 
-My daughter Gaelle, my girlfriend Ingrid, air, water, food, a computer running Linux, an internet connection.
+My daughter Gælle, my girlfriend Ingrid, air, water, food, a computer running Linux, an internet connection.
 In that order.
 
 
