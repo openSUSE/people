@@ -12,14 +12,19 @@
       Interviews with the people who make openSUSE
 
     .note
-      This site is work in progress. We are going to add all <a
+      This site is work in progress. We have added all <a
       href="https://en.opensuse.org/openSUSE:People_of_openSUSE">previous
-      interviews</a> and do new ones as well. If you have questions or would
+      interviews</a> and will do new ones as well. If you have questions or would
       like to get involved get in contact with <a
       href="mailto:cschum@suse.de">Cornelius Schumacher</a>.
     %h2 All interviews
     %ul
+    - year = nil
     - all.each do |person|
+      - if year != person[:date][0..3]
+        - year = person[:date][0..3]
+        %h3
+          = year
       %li
         <a href="#{person[:link]}">#{person[:name]}</a>
         %span{class: "date"}
