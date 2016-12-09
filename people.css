@@ -15,6 +15,10 @@ body {
   color: #35B9AB;
 }
 
+h2.subtitle {
+  font-style: italic;
+}
+
 #menu {
   float: right;
   margin-top: 12px;
