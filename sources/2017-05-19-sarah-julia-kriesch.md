@@ -16,7 +16,7 @@ All people in the community are saying Sarah. My nickname is AdaLovelace, becaus
 
 **What are you doing for a living? Are you paid to work on openSUSE?**
 
-I am living the student freedom at the moment. I won't be paid for the work at openSUSE. I get the scholarship Auftiegsstipendium by the BMBF. Additional to that I receive some money as a Working Student from ownCloud. It is fantastic to work for open source projects. I transfer that with the AG Open Source to our university, too. 
+I am living the student freedom at the moment. I won't be paid for the work at openSUSE. I get the scholarship Aufstiegsstipendium by the BMBF. Additional to that I receive some money as a Working Student from ownCloud. It is fantastic to work for open source projects. I transfer that with the AG Open Source to our university, too. 
 
 **When and why did you start using openSUSE?**
 
